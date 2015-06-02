@@ -1,0 +1,12 @@
+Source: ros-indigo-rocon-hue
+Section: misc
+Priority: extra
+Maintainer: Dongwook Lee <dwlee@yujinrobot.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-roslint
+Homepage: http://wiki.ros.org/rocon_hue
+Standards-Version: 3.9.2
+
+Package: ros-indigo-rocon-hue
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-rospkg, ros-indigo-rocon-device-msgs, ros-indigo-rocon-python-hue, ros-indigo-roslint, ros-indigo-rospy
+Description: phue wrapper package to use in rocon
