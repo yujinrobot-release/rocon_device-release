@@ -1,0 +1,20 @@
+ros-indigo-rocon-rtsp-camera-relay (0.0.2-0saucy) saucy; urgency=high
+
+  * Merge pull request #38 <https://github.com/robotics-in-concert/rocon_devices/issues/38> from robotics-in-concert/video_url
+    remove user pw field and use only video stream url param to access ca…
+  * remove user pw field and use only video stream url param to access camera
+  * Contributors: Jihoon Lee, dwlee
+
+ -- Dongwook Lee <dwlee@yujinrobot.com>  Thu, 04 Jun 2015 15:00:00 -0000
+
+ros-indigo-rocon-rtsp-camera-relay (0.0.1-0saucy) saucy; urgency=high
+
+  * convert stdstring to std_msgs string closes #37 <https://github.com/robotics-in-concert/rocon_devices/issues/37>
+  * release preparation
+  * rtsp camera relay package ready
+  * rename rtsp_camera_driver to rocon_rtsp_camera_relay closes #33 <https://github.com/robotics-in-concert/rocon_devices/issues/33>
+  * Contributors: Jihoon Lee, dwlee
+
+ -- Dongwook Lee <dwlee@yujinrobot.com>  Mon, 01 Jun 2015 15:00:00 -0000
+
+
