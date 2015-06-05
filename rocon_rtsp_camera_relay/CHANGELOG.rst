@@ -2,6 +2,11 @@
 Changelog for package rocon_rtsp_camera_relay
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.3 (2015-06-05)
+------------------
+* delete author in rapp files to close `#39 <https://github.com/robotics-in-concert/rocon_devices/issues/39>`_
+* Contributors: dwlee
+
 0.0.2 (2015-06-05)
 ------------------
 * Merge pull request `#38 <https://github.com/robotics-in-concert/rocon_devices/issues/38>`_ from robotics-in-concert/video_url
