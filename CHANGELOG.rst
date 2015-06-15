@@ -2,6 +2,9 @@
 Changelog for package rocon_hue
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.4 (2015-06-15)
+------------------
+
 0.0.3 (2015-06-05)
 ------------------
 * delete author in rapp files to close `#39 <https://github.com/robotics-in-concert/rocon_devices/issues/39>`_
