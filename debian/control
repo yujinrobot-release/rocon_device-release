@@ -1,0 +1,12 @@
+Source: ros-indigo-rocon-iot-bridge
+Section: misc
+Priority: extra
+Maintainer: Jihoon Lee <jihoonlee.in@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://wiki.ros.org/rocon_iot_bridge
+Standards-Version: 3.9.2
+
+Package: ros-indigo-rocon-iot-bridge
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-flask, ros-indigo-rospy
+Description: This package helps to communicate iot platforms like ninjablock and smartthings
