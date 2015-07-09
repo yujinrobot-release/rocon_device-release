@@ -1,0 +1,38 @@
+ros-indigo-rocon-iot-bridge (0.0.5-0trusty) trusty; urgency=high
+
+  * separate out smartthings bridge
+  * separate out ninjablock from iot bridge
+  * migrate iot_bridge into device_tools
+  * Contributors: Jihoon Lee
+  * separate out smartthings bridge
+  * separate out ninjablock from iot bridge
+  * migrate iot_bridge into device_tools
+  * Contributors: Jihoon Lee
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Wed, 08 Jul 2015 15:00:00 -0000
+
+ros-indigo-rocon-iot-bridge (0.0.4-0trusty) trusty; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Sun, 14 Jun 2015 15:00:00 -0000
+
+ros-indigo-rocon-iot-bridge (0.0.3-0trusty) trusty; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Fri, 05 Jun 2015 03:43:00 -0000
+
+ros-indigo-rocon-iot-bridge (0.0.2-0trusty) trusty; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Fri, 05 Jun 2015 01:32:00 -0000
+
+ros-indigo-rocon-iot-bridge (0.0.1-0trusty) trusty; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Mon, 01 Jun 2015 15:00:00 -0000
+
+
