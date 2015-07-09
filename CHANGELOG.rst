@@ -2,6 +2,13 @@
 Changelog for package rocon_hue
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.5 (2015-07-09)
+------------------
+* update ros spinning time
+* update ping checker into subprocess and not display log regarding ping checker
+* update ping checker and change into sending set hue message not always included on property
+* Contributors: dwlee
+
 0.0.4 (2015-06-15)
 ------------------
 
