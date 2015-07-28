@@ -1,0 +1,12 @@
+Source: ros-indigo-rocon-rtsp-camera-relay
+Section: misc
+Priority: extra
+Maintainer: Dongwook Lee <dwlee@yujinrobot.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-cv-bridge, ros-indigo-image-transport, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-rocon-rtsp-camera-relay
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-cv-bridge, ros-indigo-image-transport, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-std-msgs
+Description: RTSP camera relay node converts rtsp camera stream from ip camera to ros image message
