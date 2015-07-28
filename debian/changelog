@@ -1,0 +1,61 @@
+ros-indigo-rocon-ninjablock-bridge (0.0.7-0trusty) trusty; urgency=high
+
+
+
+ -- Dongwook Lee <dwlee@yujinrobot.com>  Mon, 27 Jul 2015 15:00:00 -0000
+
+ros-indigo-rocon-ninjablock-bridge (0.0.6-0trusty) trusty; urgency=high
+
+  * add init py for ninjablock and smartthings
+  * Contributors: Jihoon Lee
+
+ -- Dongwook Lee <dwlee@yujinrobot.com>  Wed, 22 Jul 2015 15:00:00 -0000
+
+ros-indigo-rocon-ninjablock-bridge (0.0.5-0trusty) trusty; urgency=high
+
+  * delete log
+  * update type matching like smartthing and default json
+  * fix register problem devices callback in ninjablock
+  * move child rapp to concert_common_rapps repo
+  * update room checker rapp with ninjablock bridge
+  * launch file update
+  * separate out smartthings bridge
+  * separate out ninjablock from iot bridge
+  * Contributors: Jihoon Lee, dwlee
+  * delete log
+  * update type matching like smartthing and default json
+  * fix register problem devices callback in ninjablock
+  * move child rapp to concert_common_rapps repo
+  * update room checker rapp with ninjablock bridge
+  * launch file update
+  * separate out smartthings bridge
+  * separate out ninjablock from iot bridge
+  * Contributors: Jihoon Lee, dwlee
+
+ -- Dongwook Lee <dwlee@yujinrobot.com>  Wed, 08 Jul 2015 15:00:00 -0000
+
+ros-indigo-rocon-ninjablock-bridge (0.0.4-0trusty) trusty; urgency=high
+
+
+
+ -- Dongwook Lee <dwlee@yujinrobot.com>  Sun, 14 Jun 2015 15:00:00 -0000
+
+ros-indigo-rocon-ninjablock-bridge (0.0.3-0trusty) trusty; urgency=high
+
+
+
+ -- Dongwook Lee <dwlee@yujinrobot.com>  Fri, 05 Jun 2015 03:43:00 -0000
+
+ros-indigo-rocon-ninjablock-bridge (0.0.2-0trusty) trusty; urgency=high
+
+
+
+ -- Dongwook Lee <dwlee@yujinrobot.com>  Fri, 05 Jun 2015 01:32:00 -0000
+
+ros-indigo-rocon-ninjablock-bridge (0.0.1-0trusty) trusty; urgency=high
+
+
+
+ -- Dongwook Lee <dwlee@yujinrobot.com>  Mon, 01 Jun 2015 15:00:00 -0000
+
+
