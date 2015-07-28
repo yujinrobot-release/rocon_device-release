@@ -2,6 +2,11 @@
 Changelog for package rocon_smartthings_bridge
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.7 (2015-07-28)
+------------------
+* fix Cmake
+* Contributors: Jihoon Lee
+
 0.0.6 (2015-07-23)
 ------------------
 * add init py for ninjablock and smartthings
